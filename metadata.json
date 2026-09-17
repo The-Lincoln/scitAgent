@@ -1,0 +1,6 @@
+{
+  "name": "SCITBD Automated Lead Capture & API Webhook Controller",
+  "description": "Production-ready automated lead capture system and backend webhook controller with Dark Mode Nano aesthetic, SQLite CRM persistence, SLA enforcement, and CEO escalation protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
